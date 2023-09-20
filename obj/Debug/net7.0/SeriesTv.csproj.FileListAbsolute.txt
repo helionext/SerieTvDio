@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\SeriesTv\bin\Debug\net7.0\SeriesTv.exe
+C:\Users\junio\source\repos\SeriesTv\bin\Debug\net7.0\SeriesTv.deps.json
+C:\Users\junio\source\repos\SeriesTv\bin\Debug\net7.0\SeriesTv.runtimeconfig.json
+C:\Users\junio\source\repos\SeriesTv\bin\Debug\net7.0\SeriesTv.dll
+C:\Users\junio\source\repos\SeriesTv\bin\Debug\net7.0\SeriesTv.pdb
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.AssemblyInfo.cs
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.dll
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\refint\SeriesTv.dll
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.pdb
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\SeriesTv.genruntimeconfig.cache
+C:\Users\junio\source\repos\SeriesTv\obj\Debug\net7.0\ref\SeriesTv.dll
